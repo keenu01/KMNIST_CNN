@@ -37,7 +37,7 @@ After training, a 5×5 grid shows predictions:
 - ✅ Green titles: Correct predictions  
 - ❌ Red titles: Incorrect predictions
 
-Make sure to save your output in `images/sample_output.png` if you'd like it rendered here.
+Make sure to save your output in `Figure_1.png` if you'd like it rendered here.
 
 ![Prediction Grid](images/sample_output.png)
 
